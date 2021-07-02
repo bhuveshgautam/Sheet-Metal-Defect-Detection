@@ -1,4 +1,4 @@
-# Sheet-Metal-Surface-Defect-Detection
+# Sheet-Metal-Defect-Detection
 
 A number of defects are created on the surface of metal sheet due to the intermediate processes it undergoes before it is finally supplied into the market. Our model predicts
 these defects during the production of steel sheets in factories. The dataset was obtained from Kaggle- Severstal defect detection dataset. 
