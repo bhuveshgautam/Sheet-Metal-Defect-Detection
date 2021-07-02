@@ -1,10 +1,15 @@
-# sheet-metal-defect-detection
+# Sheet-Metal-Surface-Defect-Detection
 
-As part of curriculum, a research paper was written upon detection of defects during the production of steel sheets in factories. The dataset was obtained from Kaggle- Severstal defect detection dataset. 
+A number of defects are created on the surface of metal sheet due to the intermediate processes it undergoes before it is finally supplied into the market. Our model predicts
+these defects during the production of steel sheets in factories. The dataset was obtained from Kaggle- Severstal defect detection dataset. 
 
 Extensive EDA was performed, which included conversion of rle to mask image, removal of no defect images and many more mentioned in the notebook
 
 Data augmentation was performed to enhance the models prediction. Initaially 3 models U-net, Xception and mas-rcnn waas chosen.
+
+
+![image](https://user-images.githubusercontent.com/42464227/124218652-45b32b00-db18-11eb-9ee4-6876a42e2091.png)
+
 
 ## U-NET
 
